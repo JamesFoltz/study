@@ -2430,7 +2430,7 @@ var flashcards = {
       "question": "What protocol uses port 445?",
       "answer": "Server Message Block (SMB)"
     },
-   {
+    {
       "section": "Ports",
       "question": "What port is Syslog?",
       "answer": "514"
@@ -2440,7 +2440,7 @@ var flashcards = {
       "question": "What protocol uses port 514?",
       "answer": "Syslog"
     },
-   {
+    {
       "section": "Ports",
       "question": "What port is SMTP TLS?",
       "answer": "587"
@@ -2531,171 +2531,171 @@ var flashcards = {
       "answer": "Session Initiation Protocol (SIP)"
     }
   ],
- "Cybersecurity Networking UNIT 1": [
-  {
-    section: "Foundational Cybersecurity Concepts",
-    question: "What are the three core components of the CIA Triad in cybersecurity?",
-    answer: "Confidentiality, Integrity, and Availability."
-  },
-  {
-    section: "Foundational Cybersecurity Concepts",
-    question: "What does confidentiality ensure in cybersecurity?",
-    answer: "Confidentiality ensures that data is accessible only to authorized individuals, systems, or processes."
-  },
-  {
-    section: "Foundational Cybersecurity Concepts",
-    question: "What is the purpose of integrity in cybersecurity?",
-    answer: "Integrity ensures that data is accurate and trustworthy, including non-repudiation to verify the origin of data."
-  },
-  {
-    section: "Foundational Cybersecurity Concepts",
-    question: "What does availability mean in the context of cybersecurity?",
-    answer: "Availability ensures that data and services are accessible when required by authorized individuals."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "How can individuals limit the risk of identity theft and credit card fraud?",
-    answer: "By limiting the sharing of personal information on public websites and being cautious about emails from unknown senders."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "Why is using secure Internet connections important for personal digital security?",
-    answer: "Using secure connections, such as VPNs on public Wi-Fi, helps prevent sensitive information from being intercepted."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "What are some practices for strong password security?",
-    answer: "Use strong, unique passwords for each account, update them regularly, and enable multifactor authentication (MFA)."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "How does multifactor authentication (MFA) enhance security?",
-    answer: "MFA requires two or more types of information to log in, making unauthorized access more difficult even if a password is compromised."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "Why is it important to keep software up to date?",
-    answer: "Up-to-date software applies the latest security patches to address known vulnerabilities."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "How does antivirus software protect your data?",
-    answer: "It detects and prevents malicious files from being downloaded and executed."
-  },
-  {
-    section: "Personal Digital Security",
-    question: "What is the benefit of maintaining updated backups?",
-    answer: "Backups help recover from cyber incidents or hardware failures with minimal data loss."
-  },
-  {
-    section: "Enterprise Security",
-    question: "How is enterprise security different from personal digital security?",
-    answer: "Enterprise security protects an organization's managed data, involves more complex infrastructure, and must comply with laws and regulations."
-  },
-  {
-    section: "Enterprise Security",
-    question: "What are the three states of data?",
-    answer: "Data at rest, data in transit, and data in use."
-  },
-  {
-    section: "Enterprise Security",
-    question: "How is data at rest protected?",
-    answer: "By controlling physical and administrative access to storage systems."
-  },
-  {
-    section: "Enterprise Security",
-    question: "How is data in transit protected?",
-    answer: "By monitoring and securing data as it moves through network infrastructure."
-  },
-  {
-    section: "Enterprise Security",
-    question: "How is data in use protected?",
-    answer: "By verifying that the user accessing the data is legitimate and authorized."
-  },
-  {
-    section: "Enterprise Security",
-    question: "Why do organizations classify data?",
-    answer: "To determine the level of security controls required, with higher sensitivity data requiring higher security."
-  },
-  {
-    section: "Introduction to Computer Systems",
-    question: "What are the main hardware components of a computer system?",
-    answer: "CPU, RAM, storage devices (HDD/SSD), motherboard, and peripheral components."
-  },
-  {
-    section: "Introduction to Computer Systems",
-    question: "What is the function of the CPU?",
-    answer: "The CPU executes arithmetic, logic, and input/output operations."
-  },
-  {
-    section: "Introduction to Computer Systems",
-    question: "What is the difference between RAM and storage?",
-    answer: "RAM temporarily holds data for immediate use and is volatile; storage holds data long-term and is non-volatile."
-  },
-  {
-    section: "Introduction to Computer Systems",
-    question: "What is firmware?",
-    answer: "Firmware is software that manages hardware components, including device initialization and communication."
-  },
-  {
-    section: "Introduction to Computer Systems",
-    question: "What is virtualization?",
-    answer: "Virtualization allows multiple virtual instances or environments to run on a single hardware system, increasing efficiency and security."
-  },
-  {
-    section: "Introduction to Command Line",
-    question: "How does a Windows file system differ from a Linux file system?",
-    answer: "Windows uses drive letters (e.g., C:\\), while Linux starts from the root directory (/)."
-  },
-  {
-    section: "Introduction to Command Line",
-    question: "What is an absolute path versus a relative path?",
-    answer: "An absolute path starts from the root or drive letter; a relative path is based on the current directory."
-  },
-  {
-    section: "Introduction to Command Line",
-    question: "What are some common CLI commands for file system navigation?",
-    answer: "cd (change directory), ls/dir (list contents), pwd (print working directory), mkdir (make directory), mv (move/rename), cp (copy), touch (create file)."
-  },
-  {
-    section: "Introduction to Networks",
-    question: "What are the essential components of a computer network?",
-    answer: "Multiple connected devices (nodes), transmission medium, and communication protocols."
-  },
-  {
-    section: "Introduction to Networks",
-    question: "What is a network node and a host?",
-    answer: "A node is any connected device; a host actively generates or consumes data (e.g., computers, servers)."
-  },
-  {
-    section: "Introduction to Networks",
-    question: "How do computers transmit data in a network?",
-    answer: "By converting data into binary and sending it as light, electricity, or electromagnetic waves via a NIC."
-  },
-  {
-    section: "Introduction to Networks",
-    question: "How do you convert decimal to binary?",
-    answer: "Write 1s in the binary place values (powers of 2) that sum up to the decimal number. For example, 23 (decimal) is 10111 (binary)."
-  },
-  {
-    section: "Introduction to Networks",
-    question: "What are the primary types of networks by geographical size?",
-    answer: "LAN (Local Area Network), WAN (Wide Area Network), PAN (Personal Area Network), MAN (Metropolitan Area Network)."
-  },
-  {
-    section: "SOHO vs. Enterprise Networks",
-    question: "What is a SOHO network?",
-    answer: "A Small Office/Home Office network serving a small number of users in a single LAN."
-  },
-  {
-    section: "SOHO vs. Enterprise Networks",
-    question: "What devices are commonly found in a SOHO network?",
-    answer: "Modem, router, wireless access point, switch, firewall, and endpoints (laptops, PCs, printers, cell phones)."
-  },
-  {
-    section: "SOHO vs. Enterprise Networks",
-    question: "Why do SOHO and enterprise networks have different security implications?",
-    answer: "SOHO networks are smaller, simpler, and less expensive, while enterprise networks handle more users, devices, and require more complex security and infrastructure."
-  }
-]
+  "Cybersecurity Networking UNIT 1": [
+    {
+      section: "Foundational Cybersecurity Concepts",
+      question: "What are the three core components of the CIA Triad in cybersecurity?",
+      answer: "Confidentiality, Integrity, and Availability."
+    },
+    {
+      section: "Foundational Cybersecurity Concepts",
+      question: "What does confidentiality ensure in cybersecurity?",
+      answer: "Confidentiality ensures that data is accessible only to authorized individuals, systems, or processes."
+    },
+    {
+      section: "Foundational Cybersecurity Concepts",
+      question: "What is the purpose of integrity in cybersecurity?",
+      answer: "Integrity ensures that data is accurate and trustworthy, including non-repudiation to verify the origin of data."
+    },
+    {
+      section: "Foundational Cybersecurity Concepts",
+      question: "What does availability mean in the context of cybersecurity?",
+      answer: "Availability ensures that data and services are accessible when required by authorized individuals."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "How can individuals limit the risk of identity theft and credit card fraud?",
+      answer: "By limiting the sharing of personal information on public websites and being cautious about emails from unknown senders."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "Why is using secure Internet connections important for personal digital security?",
+      answer: "Using secure connections, such as VPNs on public Wi-Fi, helps prevent sensitive information from being intercepted."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "What are some practices for strong password security?",
+      answer: "Use strong, unique passwords for each account, update them regularly, and enable multifactor authentication (MFA)."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "How does multifactor authentication (MFA) enhance security?",
+      answer: "MFA requires two or more types of information to log in, making unauthorized access more difficult even if a password is compromised."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "Why is it important to keep software up to date?",
+      answer: "Up-to-date software applies the latest security patches to address known vulnerabilities."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "How does antivirus software protect your data?",
+      answer: "It detects and prevents malicious files from being downloaded and executed."
+    },
+    {
+      section: "Personal Digital Security",
+      question: "What is the benefit of maintaining updated backups?",
+      answer: "Backups help recover from cyber incidents or hardware failures with minimal data loss."
+    },
+    {
+      section: "Enterprise Security",
+      question: "How is enterprise security different from personal digital security?",
+      answer: "Enterprise security protects an organization's managed data, involves more complex infrastructure, and must comply with laws and regulations."
+    },
+    {
+      section: "Enterprise Security",
+      question: "What are the three states of data?",
+      answer: "Data at rest, data in transit, and data in use."
+    },
+    {
+      section: "Enterprise Security",
+      question: "How is data at rest protected?",
+      answer: "By controlling physical and administrative access to storage systems."
+    },
+    {
+      section: "Enterprise Security",
+      question: "How is data in transit protected?",
+      answer: "By monitoring and securing data as it moves through network infrastructure."
+    },
+    {
+      section: "Enterprise Security",
+      question: "How is data in use protected?",
+      answer: "By verifying that the user accessing the data is legitimate and authorized."
+    },
+    {
+      section: "Enterprise Security",
+      question: "Why do organizations classify data?",
+      answer: "To determine the level of security controls required, with higher sensitivity data requiring higher security."
+    },
+    {
+      section: "Introduction to Computer Systems",
+      question: "What are the main hardware components of a computer system?",
+      answer: "CPU, RAM, storage devices (HDD/SSD), motherboard, and peripheral components."
+    },
+    {
+      section: "Introduction to Computer Systems",
+      question: "What is the function of the CPU?",
+      answer: "The CPU executes arithmetic, logic, and input/output operations."
+    },
+    {
+      section: "Introduction to Computer Systems",
+      question: "What is the difference between RAM and storage?",
+      answer: "RAM temporarily holds data for immediate use and is volatile; storage holds data long-term and is non-volatile."
+    },
+    {
+      section: "Introduction to Computer Systems",
+      question: "What is firmware?",
+      answer: "Firmware is software that manages hardware components, including device initialization and communication."
+    },
+    {
+      section: "Introduction to Computer Systems",
+      question: "What is virtualization?",
+      answer: "Virtualization allows multiple virtual instances or environments to run on a single hardware system, increasing efficiency and security."
+    },
+    {
+      section: "Introduction to Command Line",
+      question: "How does a Windows file system differ from a Linux file system?",
+      answer: "Windows uses drive letters (e.g., C:\\), while Linux starts from the root directory (/)."
+    },
+    {
+      section: "Introduction to Command Line",
+      question: "What is an absolute path versus a relative path?",
+      answer: "An absolute path starts from the root or drive letter; a relative path is based on the current directory."
+    },
+    {
+      section: "Introduction to Command Line",
+      question: "What are some common CLI commands for file system navigation?",
+      answer: "cd (change directory), ls/dir (list contents), pwd (print working directory), mkdir (make directory), mv (move/rename), cp (copy), touch (create file)."
+    },
+    {
+      section: "Introduction to Networks",
+      question: "What are the essential components of a computer network?",
+      answer: "Multiple connected devices (nodes), transmission medium, and communication protocols."
+    },
+    {
+      section: "Introduction to Networks",
+      question: "What is a network node and a host?",
+      answer: "A node is any connected device; a host actively generates or consumes data (e.g., computers, servers)."
+    },
+    {
+      section: "Introduction to Networks",
+      question: "How do computers transmit data in a network?",
+      answer: "By converting data into binary and sending it as light, electricity, or electromagnetic waves via a NIC."
+    },
+    {
+      section: "Introduction to Networks",
+      question: "How do you convert decimal to binary?",
+      answer: "Write 1s in the binary place values (powers of 2) that sum up to the decimal number. For example, 23 (decimal) is 10111 (binary)."
+    },
+    {
+      section: "Introduction to Networks",
+      question: "What are the primary types of networks by geographical size?",
+      answer: "LAN (Local Area Network), WAN (Wide Area Network), PAN (Personal Area Network), MAN (Metropolitan Area Network)."
+    },
+    {
+      section: "SOHO vs. Enterprise Networks",
+      question: "What is a SOHO network?",
+      answer: "A Small Office/Home Office network serving a small number of users in a single LAN."
+    },
+    {
+      section: "SOHO vs. Enterprise Networks",
+      question: "What devices are commonly found in a SOHO network?",
+      answer: "Modem, router, wireless access point, switch, firewall, and endpoints (laptops, PCs, printers, cell phones)."
+    },
+    {
+      section: "SOHO vs. Enterprise Networks",
+      question: "Why do SOHO and enterprise networks have different security implications?",
+      answer: "SOHO networks are smaller, simpler, and less expensive, while enterprise networks handle more users, devices, and require more complex security and infrastructure."
+    }
+  ]
 };
