@@ -1,5 +1,5 @@
 // Automatically updated version (replace with dynamic versioning logic)
-const cacheVersion = "ee85650"; // Replace this dynamically during build or commit
+const cacheVersion = "47c6bf5"; // Replace this dynamically during build or commit
 const cacheName = `offline-cache-${cacheVersion}`;
 const cacheUrls = ["index.html", "favicon.ico", "flashcards.js"];
 
