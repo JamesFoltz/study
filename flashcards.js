@@ -416,5 +416,48 @@ var flashcards = {
     { "section": "Network Troubleshooting", "question": "What tools can identify network congestion?", "answer": "Packet analysis tools, SNMP monitoring, and flow analyzers identify congestion sources.", },
     { "section": "Network Troubleshooting", "question": "How can IP address misconfigurations be resolved?", "answer": "Check and correct DHCP, server connections, and DNS settings on devices and hosts.", },
     { "section": "Network Troubleshooting", "question": "How can application software issues affect the network?", "answer": "Software issues can degrade performance; ensure compatibility, correct versions, and proper configurations.", }
+  ],
+  "Unit 5: Security Controls": [
+    { "section": "Introduction to Security Controls", "question": "What are security controls?", "answer": "Measures implemented to protect the confidentiality, integrity, and availability of data used by an organization.", },
+    { "section": "Introduction to Security Controls", "question": "What are technical controls?", "answer": "Security controls implemented using computer hardware and software.", },
+    { "section": "Introduction to Security Controls", "question": "What are administrative controls?", "answer": "Security controls implemented using policies and procedures, including user education.", },
+    { "section": "Introduction to Security Controls", "question": "What are physical controls?", "answer": "Security controls implemented to manage physical access to computing systems and networks.", },
+    { "section": "Introduction to Security Controls", "question": "What functions do security controls serve?", "answer": "They serve preventative, detective, and corrective functions to protect an organization.", },
+    { "section": "Introduction to Security Controls", "question": "What is the purpose of preventative controls?", "answer": "To stop attacks from happening.", },
+    { "section": "Introduction to Security Controls", "question": "What is the purpose of detective controls?", "answer": "To detect when attacks have occurred.", },
+    { "section": "Introduction to Security Controls", "question": "What is the purpose of corrective controls?", "answer": "To address the impact of a security incident after it has occurred.", },
+    { "section": "Introduction to Security Controls", "question": "What are the main areas security controls protect?", "answer": "Perimeter security, network security, host or endpoint security, application security, and data security.", },
+
+    { "section": "Physical and Administrative Controls", "question": "How do physical deterrents protect networks?", "answer": "By using fencing, cameras, and security guards to deter adversaries from physically accessing the network.", },
+    { "section": "Physical and Administrative Controls", "question": "How do locks protect network devices?", "answer": "Locks on doors, server cabinets, and computers prevent unauthorized access or theft of network devices.", },
+    { "section": "Physical and Administrative Controls", "question": "How do card readers enhance security?", "answer": "Card readers ensure only authorized personnel can access areas housing sensitive data.", },
+    { "section": "Physical and Administrative Controls", "question": "How does security awareness training help protect networks?", "answer": "It teaches users to identify and report suspicious activities, preventing compromise of the network and data.", },
+    { "section": "Physical and Administrative Controls", "question": "What is the role of security policies and procedures?", "answer": "They provide a structured approach to security by outlining principles (policies) and implementation instructions (procedures).", },
+
+    { "section": "Technical Controls: Firewalls", "question": "What is a firewall?", "answer": "A device or software that admits or denies traffic entry into a network or host based on defined criteria.", },
+    { "section": "Technical Controls: Firewalls", "question": "What is the difference between a host-based and a network-based firewall?", "answer": "A host-based firewall protects a single device, while a network-based firewall protects an entire network.", },
+    { "section": "Technical Controls: Firewalls", "question": "How does a stateless firewall filter traffic?", "answer": "It filters traffic based on information in packet headers such as IP addresses, ports, and protocols.", },
+    { "section": "Technical Controls: Firewalls", "question": "How does a stateful firewall filter traffic?", "answer": "It filters traffic based on the state of active connections.", },
+    { "section": "Technical Controls: Firewalls", "question": "What is a next-generation firewall (NGFW)?", "answer": "A firewall with capabilities of both stateless and stateful firewalls plus advanced features like intrusion prevention and deep packet inspection.", },
+    { "section": "Technical Controls: Firewalls", "question": "What are access control lists (ACLs)?", "answer": "Rules set by administrators that firewalls use to permit or deny inbound and outbound traffic.", },
+    { "section": "Technical Controls: Firewalls", "question": "How are ACLs checked by a firewall?", "answer": "ACLs are checked in order (typically top to bottom), and the first matching rule is executed.", },
+    { "section": "Technical Controls: Firewalls", "question": "What does a typical ACL specify?", "answer": "The direction of traffic, filtering criteria (IP addresses, port, service, or application), and the action (permit or deny).", },
+    { "section": "Technical Controls: Firewalls", "question": "What is an allow list?", "answer": "A list that grants permission only to entities listed; anything not listed is implicitly denied access.", },
+    { "section": "Technical Controls: Firewalls", "question": "What is a deny list?", "answer": "A list that explicitly denies access to entities listed; anything not on the list is implicitly allowed access.", },
+    { "section": "Technical Controls: Firewalls", "question": "How do allow lists and deny lists differ in effect?", "answer": "Allow lists result in fewer entities accessing a resource, while deny lists result in more entities accessing a resource.", },
+
+    { "section": "Technical Controls: Network Segmentation", "question": "What is network segmentation?", "answer": "The process of dividing a network into smaller, isolated segments or subnets.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "How does segmentation improve communication speed?", "answer": "By isolating traffic and reducing network congestion.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "How does segmentation prevent lateral movement of attacks?", "answer": "It isolates subnets, preventing attacks in one subnet from spreading to others.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "How does segmentation allow for different security policies?", "answer": "Different segments can have different security policies and controls, creating higher and lower security zones.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "What is a DMZ (demilitarized zone)?", "answer": "A screened subnet between public and internal networks, typically holding public-facing resources separate from internal networks.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "What are VLANs?", "answer": "Virtual Local Area Networks that logically separate devices on the same physical switch; inter-VLAN traffic must go through a Layer 3 device.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "How does subnetting create network segments?", "answer": "Subnetting uses IP addressing to create different subnets; inter-subnet traffic must go through a Layer 3 device.", },
+    { "section": "Technical Controls: Network Segmentation", "question": "Can organizations combine segmentation techniques?", "answer": "Yes, organizations may use a combination of segmentation techniques to fit their needs.", },
+
+    { "section": "Technical Controls: Network Monitoring", "question": "What do IDS and IPS systems do?", "answer": "They monitor and analyze network traffic to identify suspicious behavior or patterns indicating a security incident.", },
+    { "section": "Technical Controls: Network Monitoring", "question": "How do IDS and IPS differ?", "answer": "Both generate alerts, but an IPS also takes active measures to mitigate and respond to security incidents.", },
+    { "section": "Technical Controls: Network Monitoring", "question": "What is the benefit of logging network events?", "answer": "Logging provides useful information for investigating security incidents and helps uncover unusual activity through regular monitoring.", },
   ]
+
 };
