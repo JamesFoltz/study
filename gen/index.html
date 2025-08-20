@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flashcard JSON Generator</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width: 900px; margin: auto; }
+    h1 { font-size: 1.5em; }
+    textarea { width: 100%; height: 100px; }
+    input, select, button { margin: 5px 0; padding: 6px; width: 100%; }
+    .card-entry { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 6px; }
+    label { font-weight: bold; display: block; margin-top: 4px; }
+    #output { white-space: pre; background: #f7f7f7; padding: 10px; border-radius: 6px; margin-top: 15px; }
+  </style>
+  <script src="https://jamesfoltz.github.io/html_utils/debug.js"></script>
+</head>
+<body>
+  <h1>Flashcard JSON Generator</h1>
+
+  <label for="topic">Flashcard Topic Name:</label>
+  <input id="topic" type="text" value="Logarithm Rules">
+
+  <div id="entries"></div>
+  <button onclick="addEntry()">➕ Add Flashcard</button>
+  <br><br>
+  <label><input type="checkbox" id="flipToggle"> Duplicate with flipped Q/A</label>
+  <br><br>
+  <button onclick="generateJSON()">Generate JSON</button>
+
+  <h3>Generated JSON:</h3>
+  <pre id="output"></pre>
+
+  <script>
+    let entryCount = 0;
+
+    function addEntry(section="", question="", answer="") {
+      const div = document.createElement("div");
+      div.className = "card-entry";
+      div.innerHTML = `
+        <label>Section:</label>
+        <input type="text" class="section" value="${section}">
+        <label>Question:</label>
+        <textarea class="question">${question}</textarea>
+        <label>Answer:</label>
+        <textarea class="answer">${answer}</textarea>
+        <button onclick="this.parentNode.remove()">❌ Remove</button>
+      `;
+      document.getElementById("entries").appendChild(div);
+      entryCount++;
+    }
+
+    function generateJSON() {
+      const topic = document.getElementById("topic").value.trim() || "Flashcards";
+      const container = document.getElementById("entries");
+      const entries = container.getElementsByClassName("card-entry");
+
+      let cards = [];
+      for (let div of entries) {
+        const section = div.querySelector(".section").value.trim();
+        const question = div.querySelector(".question").value.trim();
+        const answer = div.querySelector(".answer").value.trim();
+        if (question && answer) {
+          cards.push({ section, question, answer });
+          if (document.getElementById("flipToggle").checked) {
+            cards.push({ section, question: answer, answer: question });
+          }
+        }
+      }
+
+      const result = {};
+      result[topic] = cards;
+      document.getElementById("output").textContent = JSON.stringify(result, null, 2);
+    }
+
+    // Add a default starter card
+    addEntry("Fundamental Rules", "Product Rule?", "log_a(xy) = log_a(x) + log_a(y)");
+  </script>
+</body>
+</html>
