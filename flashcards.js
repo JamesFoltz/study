@@ -584,6 +584,180 @@ var flashcards = {
     { "section": "13.4 Volume-Volume Stoichiometry", "question": "How do you solve volume-volume stoichiometry problems at STP?", "answer": "If both reactant and product are gases at STP, use the mole ratio directly to convert between their volumes." },
     { "section": "13.4 Volume-Volume Stoichiometry", "question": "How many liters of O2 are needed to produce 36.5 L of SO3 at STP (2 SO2 + O2 → 2 SO3)?", "answer": "18.3 L O2." },
     { "section": "Conversion Chart", "question": "What is the general sequence of conversions in stoichiometry as shown in the chart?", "answer": "Mass of A ⇄ Moles of A ⇄ Moles of B ⇄ (Mass, Volume, or Particles of B), using molar mass, mole ratios, molar volume (for gases), and Avogadro’s number as conversion factors." }
+  ],
+
+
+  "Polyatomic Ions": [
+    {
+      "section": "Polyatomic Ions",
+      "question": "ClO<sup>1-</sup>",
+      "answer": "Hypochlorite"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Hypochlorite",
+      "answer": "ClO<sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "ClO<sub>2</sub><sup>1-</sup>",
+      "answer": "Chlorite"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Chlorite",
+      "answer": "ClO<sub>2</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "ClO<sub>3</sub><sup>1-</sup>",
+      "answer": "Chlorate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Chlorate",
+      "answer": "ClO<sub>3</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "ClO<sub>4</sub><sup>1-</sup>",
+      "answer": "Perchlorate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Perchlorate",
+      "answer": "ClO<sub>4</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "MnO<sub>4</sub><sup>1-</sup>",
+      "answer": "Permanganate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Permanganate",
+      "answer": "MnO<sub>4</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "SO<sub>3</sub><sup>2-</sup>",
+      "answer": "Sulfite"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Sulfite",
+      "answer": "SO<sub>3</sub><sup>2-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "PO<sub>4</sub><sup>3-</sup>",
+      "answer": "Phosphate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Phosphate",
+      "answer": "PO<sub>4</sub><sup>3-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "HPO<sub>4</sub><sup>2-</sup>",
+      "answer": "Hydrogen Phosphate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Hydrogen Phosphate",
+      "answer": "HPO<sub>4</sub><sup>2-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "H<sub>2</sub>PO<sub>4</sub><sup>1-</sup>",
+      "answer": "Dihydrogen Phosphate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Dihydrogen Phosphate",
+      "answer": "H<sub>2</sub>PO<sub>4</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "NH<sub>4</sub><sup>1+</sup>",
+      "answer": "Ammonium"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Ammonium",
+      "answer": "NH<sub>4</sub><sup>1+</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "HCO<sub>3</sub><sup>1-</sup> (2 names)",
+      "answer": "Hydrogen Carbonate\nBicarbonate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Hydrogen Carbonate\nBicarbonate",
+      "answer": "HCO<sub>3</sub><sup>1-</sup> (2 names)"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "CO<sub>3</sub><sup>2-</sup>",
+      "answer": "Carbonate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Carbonate",
+      "answer": "CO<sub>3</sub><sup>2-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "OH<sup>1-</sup>",
+      "answer": "Hydroxide"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Hydroxide",
+      "answer": "OH<sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "NO<sub>2</sub><sup>1-</sup>",
+      "answer": "Nitrite"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Nitrite",
+      "answer": "NO<sub>2</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "NO<sub>3</sub><sup>1-</sup>",
+      "answer": "Nitrate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Nitrate",
+      "answer": "NO<sub>3</sub><sup>1-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "CrO<sub>4</sub><sup>2-</sup>",
+      "answer": "Chromate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Chromate",
+      "answer": "CrO<sub>4</sub><sup>2-</sup>"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>",
+      "answer": "Dichromate"
+    },
+    {
+      "section": "Polyatomic Ions",
+      "question": "Dichromate",
+      "answer": "Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>"
+    }
   ]
 
 
