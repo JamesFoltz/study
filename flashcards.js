@@ -2917,4 +2917,52 @@ var flashcards = {
       answer: "O<sub>2</sub><sup>2-</sup>",
     },
   ],
+  "war of 1812":[
+  {
+    section: "Adams-Onis Treaty",
+    question: "What was the Adams-Onis Treaty of 1819?",
+    answer: "Spain ceded Florida to the United States and gave up its claims to the Oregon Territory."
+  },
+  {
+    section: "Battle of New Orleans",
+    question: "What happened at the Battle of New Orleans on January 8, 1815?",
+    answer: "Jackson led U.S. troops against the British after the Treaty of Ghent was signed, but news had not yet reached the U.S."
+  },
+  {
+    section: "Hartford Convention",
+    question: "What was the Hartford Convention?",
+    answer: "A meeting of Federalists dissatisfied with the War of 1812, where they considered constitutional changes and secession. It damaged the Federalist Party."
+  },
+  {
+    section: "Louisiana Purchase",
+    question: "What was the Louisiana Purchase of 1803?",
+    answer: "A land deal where the U.S. bought western territory from France for $15 million during Jefferson's presidency."
+  },
+  {
+    section: "McCulloch v. Maryland",
+    question: "What was the significance of McCulloch v. Maryland (1819)?",
+    answer: "The Supreme Court confirmed national supremacy over state governments and reinforced federal power."
+  },
+  {
+    section: "Missouri Compromise",
+    question: "What was the Missouri Compromise of 1820?",
+    answer: "It admitted Missouri as a slave state and Maine as a free state, and prohibited slavery north of the 36°30′ latitude line."
+  },
+  {
+    section: "Treaty of Ghent",
+    question: "What did the Treaty of Ghent accomplish?",
+    answer: "It ended the War of 1812 and restored prewar conditions and territory."
+  },
+  {
+    section: "USS Constitution (Old Ironsides)",
+    question: "Why was the USS Constitution called 'Old Ironsides'?",
+    answer: "It was a famous American frigate, larger and heavier than most British ships, and earned its nickname in battle."
+  },
+  {
+    section: "War of 1812",
+    question: "What caused the War of 1812 and what happened?",
+    answer: "It was caused by British impressment of U.S. sailors, seizure of ships, and support for Native attacks. U.S. troops fought in Florida, and the British invaded and burned Washington, D.C."
+  }
+]
+
 };
