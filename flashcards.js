@@ -2963,7 +2963,7 @@ var flashcards = {
     question: "What caused the War of 1812 and what happened?",
     answer: "It was caused by British impressment of U.S. sailors, seizure of ships, and support for Native attacks. U.S. troops fought in Florida, and the British invaded and burned Washington, D.C."
   }
-]
+],
   "Civil War": [
     {
       "section": "Civil War",
