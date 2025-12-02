@@ -2964,5 +2964,102 @@ var flashcards = {
     answer: "It was caused by British impressment of U.S. sailors, seizure of ships, and support for Native attacks. U.S. troops fought in Florida, and the British invaded and burned Washington, D.C."
   }
 ]
+  "Civil War": [
+    {
+      "section": "Civil War",
+      "question": "1st Battle of Bull Run",
+      "answer": "Thomas \"Stonewall\" Jackson gets his nickname in this battle. The Confederacy gets an early victory and a boost of confidence in this battle."
+    },
+    {
+      "section": "",
+      "question": "Secede/Secession",
+      "answer": "to withdraw from the United States. Caused by Lincoln's election to the presidency. South Carolina was 1st to go."
+    },
+    {
+      "section": "",
+      "question": "Anaconda Plan",
+      "answer": "The North's strategy to win the war. Surround the South & squeeze it from all sides."
+    },
+    {
+      "section": "",
+      "question": "Battle of Gettysburg",
+      "answer": "Bloodiest battle of the Civil War. Considered the turning point of the war, proved that Robert E. Lee was not unstoppable."
+    },
+    {
+      "section": "",
+      "question": "Firing on Fort Sumter",
+      "answer": "Northern controlled fortress in Charleston S.C. It was where the first shots of the Civil War were fired."
+    },
+    {
+      "section": "",
+      "question": "Ulysses Grant",
+      "answer": "Top Northern General, chosen by Lincoln to lead Union forces in the war.\nLee eventually surrendered to him."
+    },
+    {
+      "section": "",
+      "question": "Robert E. Lee",
+      "answer": "Leader of the Confederate (Southern) army during the Civil War. Considered a gifted commander. One of the 3 men on Stone Mnt."
+    },
+    {
+      "section": "",
+      "question": "13th Amendment",
+      "answer": "Added to the Constitution to officially end slavery, the root cause of the civil war."
+    },
+    {
+      "section": "",
+      "question": "Emancipation Proclamation",
+      "answer": "A special order by President Lincoln on January 1st, 1863 declaring slaves in Confederate states were free"
+    },
+    {
+      "section": "",
+      "question": "Battle of Vicksburg",
+      "answer": "Major Union victory won by Gen. Grant. Gave Union control of the Mississippi river & cut the Confederacy in two."
+    },
+    {
+      "section": "",
+      "question": "Abraham Lincoln",
+      "answer": "President of the Union during the Civil War. He opposed the expansion of slavery. He thought slavery was immoral."
+    },
+    {
+      "section": "",
+      "question": "Jefferson Davis",
+      "answer": "President of the Confederacy during the Civil War, one of the three men on Stone Mountain."
+    },
+    {
+      "section": "",
+      "question": "Gettysburg Address",
+      "answer": "Two minute speech given by Abraham Lincoln at a memorial for Union soldiers that died during one of the most important battles of the war."
+    },
+    {
+      "section": "",
+      "question": "Appomattox Courthouse",
+      "answer": "Place where Robert E. Lee surrendered to Ulysses Grant, ending the Civil War."
+    },
+    {
+      "section": "",
+      "question": "Battle of Atlanta/March to the Sea",
+      "answer": "Total war. General Sherman and his men destroyed the city, a major transport center, & everything in their path."
+    },
+    {
+      "section": "",
+      "question": "Habeas Corpus---suspended",
+      "answer": "A key Constitutional protection against unlawful imprisonment, Lincoln ignored it as part of his war-emergency powers."
+    },
+    {
+      "section": "",
+      "question": "William T. Sherman",
+      "answer": "Union General who captured Atlanta & burned it to the ground, along with most of Ga. & S.C."
+    },
+    {
+      "section": "",
+      "question": "The Mississippi River",
+      "answer": "Considered a very important resource to both sides during the Civil War; The Union gained control of it at the Battle of Vicksburg."
+    },
+    {
+      "section": "",
+      "question": "South Carolina",
+      "answer": "First state to leave the union, place where 1st battle was fought, place that got punished the most by Sherman's Army."
+    }
+  ]
 
 };
