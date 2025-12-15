@@ -3060,6 +3060,67 @@ var flashcards = {
       "question": "South Carolina",
       "answer": "First state to leave the union, place where 1st battle was fought, place that got punished the most by Sherman's Army."
     }
+  ],
+"Reconstruction Era": [
+    {
+      "section": "",
+      "question": "Johnson's Impeachment",
+      "answer": "1868, President Andrew Johnson violated the Tenure of Office Act when he fired Secretary of War Stanton. House voted impeachment for high crimes and misdemeanors, Senate voted not guilty by 1 vote"
+    },
+    {
+      "section": "",
+      "question": "Freedmen's Bureau",
+      "answer": "A government agency founded during Reconstruction to help former slaves adjust to a life of freedom"
+    },
+    {
+      "section": "",
+      "question": "KKK",
+      "answer": "Stands for Ku Klux Klan and started right after the Civil War in 1866. The Southern establishment took charge by passing discriminatory laws known as the black codes. Gives whites almost unlimited power. They masked themselves and burned black churches, schools, and terrorized black people. They are anti-black and anti-Semitic."
+    },
+    {
+      "section": "",
+      "question": "Black Codes",
+      "answer": "Laws denying most legal rights to newly freed slaves; passed by southern states following the Civil War"
+    },
+    {
+      "section": "",
+      "question": "Alaska Purchase",
+      "answer": "-purchased from Russia for $7.2 million by Secretary of State William Seward. People criticized him for spending money on a barren wasteland, calling Alaska \"Seward's Icebox.\"\n-later found to have precious natural resources such as gold and oil"
+    },
+    {
+      "section": "",
+      "question": "Reconstruction",
+      "answer": "the period after the Civil War in the United States when the southern states were reorganized and reintegrated into the Union, and rebuilding in the South began"
+    },
+    {
+      "section": "",
+      "question": "13th Amendment",
+      "answer": "abolished slavery in all of the United States"
+    },
+    {
+      "section": "",
+      "question": "14th Amendment",
+      "answer": "Declares that all persons born in the U.S. are citizens and are guaranteed equal protection of the laws, regardless of race of previous condition of servitude"
+    },
+    {
+      "section": "",
+      "question": "scalawag",
+      "answer": "white Southerner who supported the Republicans during Reconstruction, along with Reconstruction Acts"
+    },
+    {
+      "section": "",
+      "question": "Carpetbaggers",
+      "answer": "A derogatory term applied to Northerners who migrated south during the Reconstruction to take advantage of opportunities to advance their own fortunes by buying up land from desperate Southerners and by manipulating new black voters to obtain lucrative government contracts."
+    },
+    {
+      "section": "",
+      "question": "Sharecropping",
+      "answer": "A system used on southern farms after the Civil War in which farmers worked land owned by someone else in return for a small portion of the crops. Many former slaves became sharecroppers."
+    },
+    {
+      "section": "",
+      "question": "15th Amendment to the Constitution",
+      "answer": "The rights for citizens to vote regardless of race, color, or previous condition of servitude, and the Congress shall have power to enforce this article by appropriate legislation."
+    }
   ]
-
 };
