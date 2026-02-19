@@ -3122,5 +3122,92 @@ var flashcards = {
       "question": "15th Amendment to the Constitution",
       "answer": "The rights for citizens to vote regardless of race, color, or previous condition of servitude, and the Congress shall have power to enforce this article by appropriate legislation."
     }
+  ],
+  "WWI": [
+    {
+      "section": "WWI",
+      "question": "Kaiser Wilhelm",
+      "answer": "ruler of Germany during WW1"
+    },
+    {
+      "section": "WWI",
+      "question": "League of Nations",
+      "answer": "Woodrow Wilson's idea for an international organization formed in 1920 to promote cooperation and peace among nations. Congress did not approve of the"
+    },
+    {
+      "section": "WWI",
+      "question": "Trenchfoot",
+      "answer": "a painful condition of the feet caused by long immersion in cold water or mud and marked by blackening and death of surface tissue and infection-sometimes requiring amputation"
+    },
+    {
+      "section": "WWI",
+      "question": "Trench Warfare/No Man's Land",
+      "answer": "a type of combat in which opposing troops fight from trenches facing each other. The area between the trenches was called No Man's Land."
+    },
+    {
+      "section": "WWI",
+      "question": "19th Amendment",
+      "answer": "Amendment to the U.S. Constitution (1920) extended the right to vote to women in federal or state elections."
+    },
+    {
+      "section": "WWI",
+      "question": "American Expeditionary Force (AEF)",
+      "answer": "United States troops in World War I; including draftees, volunteers, and the National Guard."
+    },
+    {
+      "section": "WWI",
+      "question": "Great Migration",
+      "answer": "(WWI) , movement of over 300,000 African American from the rural south into Northern cities between 1914 and 1920, many for better job opportunities."
+    },
+    {
+      "section": "WWI",
+      "question": "Sedition Act",
+      "answer": "Made it a crime to criticize the government or government officials. Opponents claimed that it violated citizens' rights to freedom of speech and freedom of the press, guaranteed by the First Amendnment."
+    },
+    {
+      "section": "WWI",
+      "question": "Espionage Act",
+      "answer": "1917 law that set heavy fines and long prison terms for antiwar activities"
+    },
+    {
+      "section": "WWI",
+      "question": "U-boats",
+      "answer": "German submarines used in World War I"
+    },
+    {
+      "section": "WWI",
+      "question": "Central Powers",
+      "answer": "In World War I the alliance of Germany and Austria-Hungary and later Turkey and Bulgaria allied with them in opposing the Allies."
+    },
+    {
+      "section": "WWI",
+      "question": "Triple Entente (Allies)",
+      "answer": "An alliance among Great Britain, France and Russia in the years before WWI. Later joined by Japan, Italy, and the U.S."
+    },
+    {
+      "section": "WWI",
+      "question": "propaganda",
+      "answer": "information that is spread for the purpose of promoting some cause"
+    },
+    {
+      "section": "WWI",
+      "question": "Treaty of Versailles",
+      "answer": "Treaty that ended WW I. It blamed Germany for WW I and handed down harsh punishment."
+    },
+    {
+      "section": "WWI",
+      "question": "14 points",
+      "answer": "(1918) President Woodrow Wilson's plan for organizing post World War I Europe and for avoiding future wars."
+    },
+    {
+      "section": "WWI",
+      "question": "Lusitania",
+      "answer": "A British passenger ship that was sunk by a German U-Boat on May 7, 1915. 128 Americans died. The sinking greatly turned American opinion against the Germans, helping the move towards entering the war."
+    },
+    {
+      "section": "WWI",
+      "question": "Zimmerman Telegram",
+      "answer": "March 1917. Sent from German Foreign Secretary, addressed to German minister in Mexico City. Mexico should attack the US if US goes to war with Germany (needed that advantage due to Mexico's promixity to the US). In return, Germany would give back Tex, NM, Arizona etc to Mexico."
+    }
   ]
 };
