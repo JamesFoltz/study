@@ -3146,28 +3146,8 @@ var flashcards = {
     },
     {
       "section": "WWI",
-      "question": "19th Amendment",
-      "answer": "Amendment to the U.S. Constitution (1920) extended the right to vote to women in federal or state elections."
-    },
-    {
-      "section": "WWI",
-      "question": "American Expeditionary Force (AEF)",
-      "answer": "United States troops in World War I; including draftees, volunteers, and the National Guard."
-    },
-    {
-      "section": "WWI",
-      "question": "Great Migration",
-      "answer": "(WWI) , movement of over 300,000 African American from the rural south into Northern cities between 1914 and 1920, many for better job opportunities."
-    },
-    {
-      "section": "WWI",
       "question": "Sedition Act",
       "answer": "Made it a crime to criticize the government or government officials. Opponents claimed that it violated citizens' rights to freedom of speech and freedom of the press, guaranteed by the First Amendnment."
-    },
-    {
-      "section": "WWI",
-      "question": "Espionage Act",
-      "answer": "1917 law that set heavy fines and long prison terms for antiwar activities"
     },
     {
       "section": "WWI",
