@@ -3202,9 +3202,9 @@ var flashcards = {
     { "section": "pH/pOH", "question": "What is the relationship between pH and pOH?", "answer": "pH + pOH = 14.00" },
     { "section": "Calculations", "question": "How do you calculate [H+] if you know the pH?", "answer": "[H+] = 10^(-pH)" },
     { "section": "Calculations", "question": "What is the formula for % ionization of acids?", "answer": "% ionization = ([H+] / [HA]) x 100" },
-    { "section": "Bases", "question": "List the 6 strong bases.", "answer": "NaOH, LiOH, KOH, Sr(OH)2, Ca(OH)2, Ba(OH)2" },
     { "section": "Bases", "question": "What is the Kb expression for the weak base BOH?", "answer": "Kb = [B+][OH-] / [BOH]" },
-    { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" }
+    { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" },
+    { "section": "Calculations", "question": "If you have the Ka and the M of an acid, how can you find [H+]?", "answer": "\\sqrt(Ka*M)" },    
   ]
 
 };
