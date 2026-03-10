@@ -3196,7 +3196,6 @@ var flashcards = {
     { "section": "Acids", "question": "What is the defining characteristic of a strong acid in solution?", "answer": "It dissociates completely and does NOT form an equilibrium." },
     { "section": "Acids", "question": "List the 6 strong acids.", "answer": "HNO3, HCl, HI, H2SO4, HBr, HClO4" },
     { "section": "Acids", "question": "How do you rank the strength of weak acids?", "answer": "By using their Ka values." },
-    { "section": "Water Equilibrium", "question": "What is the value of Kw at 25°C?", "answer": "1.0 x 10^-14" },
     { "section": "Water Equilibrium", "question": "If [H+] > [OH-], is the solution acidic or basic?", "answer": "Acidic" },
     { "section": "pH/pOH", "question": "What is the formula for pH?", "answer": "pH = -log[H+]" },
     { "section": "pH/pOH", "question": "How are significant figures represented in pH values?", "answer": "By the number of decimal places." },
@@ -3205,22 +3204,7 @@ var flashcards = {
     { "section": "Calculations", "question": "What is the formula for % ionization of acids?", "answer": "% ionization = ([H+] / [HA]) x 100" },
     { "section": "Bases", "question": "List the 6 strong bases.", "answer": "NaOH, LiOH, KOH, Sr(OH)2, Ca(OH)2, Ba(OH)2" },
     { "section": "Bases", "question": "What is the Kb expression for the weak base BOH?", "answer": "Kb = [B+][OH-] / [BOH]" },
-    { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" },
-    { "section": "Fundamentals", "question": "What does it mean for water to be 'amphoteric'?", "answer": "It can act as both an acid and a base at the same time." },
-    { "section": "Fundamentals", "question": "What is the general equation for a base and acid reaction?", "answer": "base + acid ⇌ conjugate Acid + conjugate Base" },
-    { "section": "Acids", "question": "What is the defining characteristic of a strong acid in solution?", "answer": "It dissociates completely and does NOT form an equilibrium." },
-    { "section": "Acids", "question": "List the 6 strong acids.", "answer": "HNO3, HCl, HI, H2SO4, HBr, HClO4" },
-    { "section": "Acids", "question": "How do you rank the strength of weak acids?", "answer": "By using their Ka values." },
-    { "section": "Water Equilibrium", "question": "What is the value of Kw at 25°C?", "answer": "1.0 x 10^-14" },
-    { "section": "Water Equilibrium", "question": "If [H+] > [OH-], is the solution acidic or basic?", "answer": "Acidic" },
-    { "section": "pH/pOH", "question": "What is the formula for pH?", "answer": "pH = -log[H+]" },
-    { "section": "pH/pOH", "question": "How are significant figures represented in pH values?", "answer": "By the number of decimal places." },
-    { "section": "pH/pOH", "question": "What is the relationship between pH and pOH?", "answer": "pH + pOH = 14.00" },
-    { "section": "Calculations", "question": "How do you calculate [H+] if you know the pH?", "answer": "[H+] = 10^(-pH) or antilog(-pH)" },
-    { "section": "Calculations", "question": "What is the formula for % ionization of acids?", "answer": "% ionization = ([H+] / [HA]) x 100" },
-    { "section": "Bases", "question": "List the 6 strong bases.", "answer": "NaOH, LiOH, KOH, Sr(OH)2, Ca(OH)2, Ba(OH)2" },
-    { "section": "Bases", "question": "What is the Kb expression for the weak base BOH?", "answer": "Kb = [B+][OH-] / [BOH]" },
-    { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" },
+    { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" }
   ]
 
 };
