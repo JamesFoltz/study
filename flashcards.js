@@ -3206,7 +3206,6 @@ var flashcards = {
     { "section": "Bases", "question": "List the 6 strong bases.", "answer": "NaOH, LiOH, KOH, Sr(OH)2, Ca(OH)2, Ba(OH)2" },
     { "section": "Bases", "question": "What is the Kb expression for the weak base BOH?", "answer": "Kb = [B+][OH-] / [BOH]" },
     { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" },
-    { "section": "Salts", "question": "Can ionic compounds (metal + nonmetal) act as acids or bases?", "answer": "Yes, salts can act as weak acids or weak bases." },
     { "section": "Fundamentals", "question": "What does it mean for water to be 'amphoteric'?", "answer": "It can act as both an acid and a base at the same time." },
     { "section": "Fundamentals", "question": "What is the general equation for a base and acid reaction?", "answer": "base + acid ⇌ conjugate Acid + conjugate Base" },
     { "section": "Acids", "question": "What is the defining characteristic of a strong acid in solution?", "answer": "It dissociates completely and does NOT form an equilibrium." },
@@ -3222,7 +3221,6 @@ var flashcards = {
     { "section": "Bases", "question": "List the 6 strong bases.", "answer": "NaOH, LiOH, KOH, Sr(OH)2, Ca(OH)2, Ba(OH)2" },
     { "section": "Bases", "question": "What is the Kb expression for the weak base BOH?", "answer": "Kb = [B+][OH-] / [BOH]" },
     { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" },
-    { "section": "Salts", "question": "Can ionic compounds (metal + nonmetal) act as acids or bases?", "answer": "Yes, salts can act as weak acids or weak bases." }
   ]
 
 };
