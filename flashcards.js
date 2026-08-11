@@ -3205,6 +3205,128 @@ var flashcards = {
     { "section": "Bases", "question": "What is the Kb expression for the weak base BOH?", "answer": "Kb = [B+][OH-] / [BOH]" },
     { "section": "Salts", "question": "What is the mathematical relationship between Ka, Kb, and Kw?", "answer": "Ka * Kb = Kw" },
     { "section": "Calculations", "question": "If you have the Ka and the M of an acid, how can you find [H+]?", "answer": "\\sqrt(Ka*M)" },    
+  ],
+"Chain of command": [
+    {
+      "section": "",
+      "question": "President of the United States (CC-in-Chief):",
+      "answer": "The Honorable Donald Trump"
+    },
+    {
+      "section": "",
+      "question": "The Honorable Donald Trump",
+      "answer": "President of the United States (CC-in-Chief):"
+    },
+    {
+      "section": "",
+      "question": "Secretary of Defense:",
+      "answer": "Honorable Pete Hegseth"
+    },
+    {
+      "section": "",
+      "question": "Honorable Pete Hegseth",
+      "answer": "Secretary of Defense:"
+    },
+    {
+      "section": "",
+      "question": "Secretary of the Air Force:",
+      "answer": "Honorable Dr. Troy Meink"
+    },
+    {
+      "section": "",
+      "question": "Honorable Dr. Troy Meink",
+      "answer": "Secretary of the Air Force:"
+    },
+    {
+      "section": "",
+      "question": "Chief of Staff of the Air Force:",
+      "answer": "General Kenneth Wilsbach"
+    },
+    {
+      "section": "",
+      "question": "General Kenneth Wilsbach",
+      "answer": "Chief of Staff of the Air Force:"
+    },
+    {
+      "section": "",
+      "question": "Air Education and Training Command Commander:",
+      "answer": "Lieutenant General Clark Quinn"
+    },
+    {
+      "section": "",
+      "question": "Lieutenant General Clark Quinn",
+      "answer": "Air Education and Training Command Commander:"
+    },
+    {
+      "section": "",
+      "question": "Air University Commander:",
+      "answer": "Lieutenant General Daniel Tulley"
+    },
+    {
+      "section": "",
+      "question": "Lieutenant General Daniel Tulley",
+      "answer": "Air University Commander:"
+    },
+    {
+      "section": "",
+      "question": "Holm Center Commander:",
+      "answer": "Brigadier General Joseph Sheffield"
+    },
+    {
+      "section": "",
+      "question": "Brigadier General Joseph Sheffield",
+      "answer": "Holm Center Commander:"
+    },
+    {
+      "section": "",
+      "question": "Air Force JROTC Director:",
+      "answer": "Colonel Michael Power"
+    },
+    {
+      "section": "",
+      "question": "Colonel Michael Power",
+      "answer": "Air Force JROTC Director:"
+    },
+    {
+      "section": "",
+      "question": "Principal, Sandra Day O’Connor High",
+      "answer": "Dr. Lynn Miller"
+    },
+    {
+      "section": "",
+      "question": "Dr. Lynn Miller",
+      "answer": "Principal, Sandra Day O’Connor High"
+    },
+    {
+      "section": "",
+      "question": "Senior Aerospace Science Instructor:",
+      "answer": "Major Vaughan Whited"
+    },
+    {
+      "section": "",
+      "question": "Major Vaughan Whited",
+      "answer": "Senior Aerospace Science Instructor:"
+    },
+    {
+      "section": "",
+      "question": "Aerospace Science Instructor:",
+      "answer": "Master Sergeant Mike Badey"
+    },
+    {
+      "section": "",
+      "question": "Master Sergeant Mike Badey",
+      "answer": "Aerospace Science Instructor:"
+    },
+    {
+      "section": "",
+      "question": "AZ- 20064 Group Commander:",
+      "answer": "Cadet Colonel Jacob Bryant"
+    },
+    {
+      "section": "",
+      "question": "Cadet Colonel Jacob Bryant",
+      "answer": "AZ- 20064 Group Commander:"
+    }
   ]
 
 };
