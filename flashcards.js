@@ -3328,7 +3328,7 @@ var flashcards = {
       "answer": "AZ- 20064 Group Commander:"
     }
   ],
-  "Federalism & Constitution":[
+  "Federalism and Constitution":[
   { section: "", question: "What is a Federalist?", answer: "A person who supports a system of government where individual states or provinces share power with a central national government." },
   { section: "", question: "What were the core beliefs and goals of Federalists?", answer: "1) Give the government more power to protect the community from localized threats and foreign affairs. 2) Maintain order by building a strong military to prevent local uprisings like Shays' Rebellion. 3) Use checks and balances to divide power evenly and prevent tyrannical ideologies within branches." },
   { section: "", question: "How do Federalists view the relationship between national and state government?", answer: "They give power to the delegated national government, share some powers with the state government, and also have just state governments in each state. They work together." },
