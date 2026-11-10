@@ -3391,6 +3391,102 @@ var flashcards = {
   { section: "", question: "What is judicial review and what case established it?", answer: "Marbury v. Madison (1803) — the first major court ruling. Because the Constitution is the supreme law of the land, the Supreme Court can declare any law that contradicts the Constitution as unconstitutional." },
   { section: "", question: "What are the grounds for impeachment?", answer: "If the president commits treason, bribery, or other crimes and misdemeanors." },
   { section: "", question: "Which presidents were impeached or resigned?", answer: "Three presidents were impeached: Andrew Johnson, Bill Clinton, and Donald Trump. Richard Nixon resigned once he was caught spying on the Democrats." }
-]   
-
+],
+  "Functions of congress": [
+    {
+      "section": "Congress",
+      "question": "What advantages do incumbents have in becoming re-elected?",
+      "answer": "More likely to become re-elected\n- Existing reputation\n- Experience"
+    },
+    {
+      "section": "Congress",
+      "question": "Does the House or Senate have fewer members? How many?",
+      "answer": "Senate, 100"
+    },
+    {
+      "section": "Congress",
+      "question": "What is the houses term limit? the senates?",
+      "answer": "H: 2 years\nS: 6 years"
+    },
+    {
+      "section": "Congress",
+      "question": "Does the house or senate have unlimited debates?",
+      "answer": "Senate"
+    },
+    {
+      "section": "Congress",
+      "question": "Match House/Senate, Finance influence/Foreign affairs influence",
+      "answer": "H: Finance\nS: Foreign affairs"
+    },
+    {
+      "section": "Congress",
+      "question": "Who leads the Senate? The House?",
+      "answer": "H: Speaker of the House\nS: Majority Leader"
+    },
+    {
+      "section": "Congress",
+      "question": "Types of Committees and roles",
+      "answer": "Standing committees: permanent, ongoing issues\nSelect committees: temp, specific issues\nJoint committees: either, research issues"
+    },
+    {
+      "section": "Congress",
+      "question": "How does a bill become a law?",
+      "answer": "bill introduced → hearing is held → committees vote → if it fails it dies, if it passes a debate is held → bill gets sent to president to be passed or vetoed"
+    },
+    {
+      "section": "Congress",
+      "question": "What is an earmark",
+      "answer": "Parts of a bill that direct money to specific local projects"
+    },
+    {
+      "section": "Congress",
+      "question": "What is a pork",
+      "answer": "An earmark that is considered wasteful, unnecessary, or is primarily designed to be a political tool"
+    },
+    {
+      "section": "Congress",
+      "question": "Bicameralism",
+      "answer": "Legislative branch that is split into two, ie. House and Senate"
+    },
+    {
+      "section": "Congress",
+      "question": "What age do you need to be for the senate",
+      "answer": ">30 y/o"
+    },
+    {
+      "section": "Congress",
+      "question": "What does the Appropriations Committee do",
+      "answer": "In charge of allowing spending of money"
+    },
+    {
+      "section": "The president",
+      "question": "Roles/powers of Pres.",
+      "answer": "Make Treaties, appoint ambassadors, judges and high officials, head of military"
+    },
+    {
+      "section": "The president",
+      "question": "How has Presidency changed since the countries founding?",
+      "answer": "4 year term limits, 2 terms max"
+    },
+    {
+      "section": "The president",
+      "question": "How does the EOP and Council of Economic Advisers assist the president?",
+      "answer": "cea helps with research and eop helps with executive decisions in bureaucracy"
+    },
+    {
+      "section": "The president",
+      "question": "How is the federal budget made?",
+      "answer": "The president makes a budget based on agencies budget requests"
+    },
+    {
+      "section": "The president",
+      "question": "What is an independent agency?",
+      "answer": "An agency outside of the 15 cabinet agencies"
+    },
+    {
+      "section": "The president",
+      "question": "Give an example of an independent agency",
+      "answer": "USPS, Peace Corps, CIA(Central Intelligence Agency), etc.\nfor more examples see <a href=\"https://pitt.libguides.com/usgovinfo/independentagencies\">Independent Agencies</a>"
+    }
+  ]
 };
